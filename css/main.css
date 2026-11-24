@@ -1,0 +1,24 @@
+div{
+    background-color: rgb(122, 236, 236);
+    border: 1px solid black;
+
+}
+.container{
+    display: flex;
+    height: 30px;
+    width: 600px;
+}
+.link{
+    width: 300px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.torso{
+    height: 500px;
+    padding: 30px;
+}
+img{
+    width: 300px;
+}

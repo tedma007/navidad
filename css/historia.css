@@ -1,0 +1,47 @@
+div{
+    background-color: blue;
+}
+.container{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.introduccion{
+    width: 40%;
+    padding: 5px;
+    background-color: rgb(255, 253, 208);
+}
+.foto{
+    width: 30%;
+    background-color: red;
+}
+.nudo{
+    width: 30%;
+    padding: 5px;
+    background-color: rgb(255, 253, 208);   
+}
+.desenlace{
+    width: 50%;
+    text-align: center;
+    background-color: rgb(255, 253, 208);
+}
+.foto2{
+    width: 50%;
+    background-color: rgb(255, 253, 208);
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    background-color: rgb(255, 253, 208);
+    color: rgba(255, 11, 11, 0.797);
+}
+p{
+    color: rgba(255, 11, 11, 0.797);
+}
+b{
+    color: green;
+}
+h2{
+    color: green;
+}

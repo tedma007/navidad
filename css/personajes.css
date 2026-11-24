@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    background-color: green;
+    color: red;
+}
+.container{
+    display: flex;
+}
+button{
+    width: 100px;
+}
+body{
+    background-color: green;
+}
